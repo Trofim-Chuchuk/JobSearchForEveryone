@@ -1,0 +1,16 @@
+@model Resunet.ViewModels.RegisterViewModel
+<div>
+    <form action="/registr" method="post">
+        <p>
+            <label>Email</label>
+            <input name="Email" value="@Model.Email"/>
+            <div class="error">@Html.ValidationMessageFor(x=>x.Email)</div>
+        </p>
+        <p>
+            <label>Пароль</label>
+            <input name="Password" type="password"/>
+            <div class="error">@Html.ValidationMessageFor(x=>x.Password)</div>
+        </p>
+        <button>Зарегистрироваться</button>
+    </form>
+</div>

@@ -1,0 +1,19 @@
+@model Resunet.ViewModels.ProfaileViewModel
+
+@{
+    ViewData["Title"] = "Профиль";
+}
+
+<div>
+    <form action="/profaile" method="post" enctype="multipart/form-data">
+        <p>
+            <label>Имя профиля</label>
+            <input name="ProfaileName" value="@Model.ProfaileName"/>
+            <div class="error">@Html.ValidationMessageFor(m=>m.ProfaileName)</div>
+        </p>
+        <p>
+            <input type="file" name="file"/>
+        </p>
+        <button>Авторизовыватся</button>
+    </form>
+</div>

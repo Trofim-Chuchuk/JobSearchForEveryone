@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "wq0uBDAT8712/ExJI5n6ZUUzMXp94+o55mjJgfg9ZPI=",
+  "Source": "Resunet",
+  "BasePath": "_content/Resunet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Resunet\\wwwroot",
+      "Source": "Resunet",
+      "ContentRoot": "C:\\Users\\trofi\\OneDrive\\Рабочий стол\\п\\Resunet\\Resunet\\wwwroot\\",
+      "BasePath": "_content/Resunet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\trofi\\OneDrive\\Рабочий стол\\п\\Resunet\\Resunet\\wwwroot\\css\\site.css",
+      "SourceId": "Resunet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\trofi\\OneDrive\\Рабочий стол\\п\\Resunet\\Resunet\\wwwroot\\",
+      "BasePath": "_content/Resunet",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\trofi\\OneDrive\\Рабочий стол\\п\\Resunet\\Resunet\\wwwroot\\images\\75\\75DE\\Изображение WhatsApp 2023-10-31 в 13.38.06_ed8faf18.jpg",
+      "SourceId": "Resunet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\trofi\\OneDrive\\Рабочий стол\\п\\Resunet\\Resunet\\wwwroot\\",
+      "BasePath": "_content/Resunet",
+      "RelativePath": "images/75/75DE/Изображение WhatsApp 2023-10-31 в 13.38.06_ed8faf18.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\75\\75DE\\Изображение WhatsApp 2023-10-31 в 13.38.06_ed8faf18.jpg"
+    }
+  ]
+}

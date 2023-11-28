@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "64j2mq4pwQQzHUlDzbzQSLCU+8PLeG6RHcYFR8BsrW1FnhHYOo1vhADKWEBqLmwu6DepYxTfUaaH5abPHlue2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trofi\\OneDrive\\Рабочий стол\\п\\Resunet\\Resunet\\Resunet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trofi\\.nuget\\packages\\dapper\\2.1.21\\dapper.2.1.21.nupkg.sha512",
+    "C:\\Users\\trofi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\trofi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.logging.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\trofi\\.nuget\\packages\\npgsql\\8.0.0-rc.2\\npgsql.8.0.0-rc.2.nupkg.sha512"
+  ],
+  "logs": []
+}

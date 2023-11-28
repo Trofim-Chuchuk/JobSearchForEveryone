@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\trofi\\OneDrive\\Рабочий стол\\п\\Resunet\\Resunet\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\trofi\\OneDrive\\Рабочий стол\\п\\Resunet\\Resunet\\wwwroot\\images\\75\\75DE\\Изображение WhatsApp 2023-10-31 в 13.38.06_ed8faf18.jpg",
+      "PackagePath": "staticwebassets\\images\\75\\75DE\\Изображение WhatsApp 2023-10-31 в 13.38.06_ed8faf18.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Resunet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Resunet.props",
+      "PackagePath": "build\\Resunet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Resunet.props",
+      "PackagePath": "buildMultiTargeting\\Resunet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Resunet.props",
+      "PackagePath": "buildTransitive\\Resunet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

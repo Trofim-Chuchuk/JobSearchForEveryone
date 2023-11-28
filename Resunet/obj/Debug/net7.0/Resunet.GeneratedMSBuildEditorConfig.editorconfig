@@ -1,0 +1,33 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Resunet
+build_property.RootNamespace = Resunet
+build_property.ProjectDir = C:\Users\trofi\OneDrive\Рабочий стол\п\Resunet\Resunet\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\trofi\OneDrive\Рабочий стол\п\Resunet\Resunet
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/trofi/OneDrive/Рабочий стол/п/Resunet/Resunet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/trofi/OneDrive/Рабочий стол/п/Resunet/Resunet/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/trofi/OneDrive/Рабочий стол/п/Resunet/Resunet/Views/Profaile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmFpbGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/trofi/OneDrive/Рабочий стол/п/Resunet/Resunet/Views/Registr/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0clxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
